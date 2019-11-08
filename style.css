@@ -3,6 +3,11 @@
     line-height: 1.8;
     color: #f5f6f7;
   }
+
+h1 {
+  color: Black;
+}
+
   p {font-size: 16px;}
   .margin {margin-bottom: 45px;}
   .bg-1 { 
