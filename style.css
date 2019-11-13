@@ -11,19 +11,19 @@ h1 {
   p {font-size: 16px;}
   .margin {margin-bottom: 45px;}
   .bg-1 { 
-    background-color: #1abc9c; /* Green */
+    background-color: #FF0000; /* Red */
     color: #ffffff;
   }
   .bg-2 { 
-    background-color: 	#E9967A; /* Dark Salmon */
+    background-color: #000080	; /* Dark Blue */
     color: #ffffff;
   }
   .bg-3 { 
-    background-color: #4dc3ff; /* Light Blue */
+    background-color: #BA55D3; /* Medium Orchid  */
     color: #000000;
   }
   .bg-4 { 
-    background-color: #2f2f2f; /* Black Gray */
+    background-color: #D2691E; /* Chocolate */
     color: #fff;
   }
   .container-fluid {
