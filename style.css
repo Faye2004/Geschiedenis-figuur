@@ -11,11 +11,11 @@ h1 {
   p {font-size: 16px;}
   .margin {margin-bottom: 45px;
   .bg-1 { 
-    background-color:  	#bccad6; /* Blauw 1 */
+    background-color:  	#BCCAD6; /* Blauw 1 */
     color: #ffffff;
   }
   .bg-2 { 
-    background-color: #8d9db6	; /* Blauw 2*/
+    background-color: #8D9DB6	; /* Blauw 2*/
     color: #ffffff;
   }
   .bg-3 { 
@@ -23,7 +23,7 @@ h1 {
     color: #000000;
   }
   .bg-4 { 
-    background-color: #f1e3dd; /* Blauw 4 */
+    background-color: #F1E3DD; /* Blauw 4 */
     color: #fff;
   }
   .container-fluid {
