@@ -9,21 +9,21 @@ h1 {
 }
 
   p {font-size: 16px;}
-  .margin {margin-bottom: 45px;}
+  .margin {margin-bottom: 45px;
   .bg-1 { 
-    background-color:  	#40E0D0; /* Turqouise */
+    background-color:  	#bccad6; /* Blauw 1 */
     color: #ffffff;
   }
   .bg-2 { 
-    background-color: #CD5C5C	; /* Indian Red*/
+    background-color: #8d9db6	; /* Blauw 2*/
     color: #ffffff;
   }
   .bg-3 { 
-    background-color: #BA55D3; /* Medium Orchid  */
+    background-color: #667292; /* Blauw 3  */
     color: #000000;
   }
   .bg-4 { 
-    background-color: #D2691E; /* Chocolate */
+    background-color: #f1e3dd; /* Blauw 4 */
     color: #fff;
   }
   .container-fluid {
