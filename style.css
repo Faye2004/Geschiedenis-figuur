@@ -11,19 +11,19 @@ h1 {
   p {font-size: 16px;}
   .margin {margin-bottom: 45px;
   .bg-1 { 
-    background-color:  	#BCCAD6; /* Blauw 1 */
+    background-color:	#7FFFD4; /* Aquamarine */
     color: #ffffff;
   }
   .bg-2 { 
-    background-color: #8D9DB6	; /* Blauw 2*/
+    background-color: #6495ED	; /* CornflowerBlue */
     color: #ffffff;
   }
   .bg-3 { 
-    background-color: #667292; /* Blauw 3  */
+    background-color: #483D8B; /* DarkSlateBlue */
     color: #000000;
   }
   .bg-4 { 
-    background-color: #F1E3DD; /* Blauw 4 */
+    background-color:  	#1E90FF ; /* DodgerBlue  */
     color: #fff;
   }
   .container-fluid {
